@@ -9,6 +9,9 @@ Try it in Colab:
 ## Files
 
 - `osint_pydantic.ipynb` - workshop notebook
-- `.env.example` - example environment variable names
+- API keys for the session
 
-Do not commit real API keys. Keep them in `.env` locally or paste them into a private notebook copy.
+
+OPENAI_API_KEY=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
+YC_WORLD_API_KEY=a93e09e9-4289-4f01-ad69-91b1c5cc0f08
+ALEPH_API_KEY=JRmueC9wJXCbfXkE6X56zyvPqvRgvSj4FrghqpsW
